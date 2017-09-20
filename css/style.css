@@ -16,3 +16,6 @@ div1 {
     border-left: 5px solid #555;
     border-right: 5px solid #555;
 }
+hr {
+    width: 100%;
+}
