@@ -1,6 +1,11 @@
 * {
     box-sizing: border-box;
 }
+h6 {
+    direction: ltr;
+    font-size: 8px;
+    color: #666;
+}
 html {
     direction: rtl;
     color: #bbb;
