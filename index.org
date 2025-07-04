@@ -20,7 +20,7 @@ Publications:
  - "Selmer Ranks of Elliptic Curves With a Rational 2-Torsion", Traditional International
    April Mathematical Conference In Honor of the Kazakhstan Day of science workers,
    ISBN 978-601-08-5014-9, p. 266 \\
-   The presentation can be found [[/Pres_Apr25.pdf][here]]
+   The presentation can be found [[./Pres_Apr25.pdf][here]]
 
 ** Research Interests
 - Number Theory, Algebraic Geometry
