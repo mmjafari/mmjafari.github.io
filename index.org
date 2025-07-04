@@ -1,0 +1,39 @@
+#+OPTIONS: toc:nil num:0
+#+TITLE: Home Page of Mohammad Mahdi Jafari
+
+Undergraduate researcher in Number Theory and Geometry
+
+=dzhafari_mokhammad_m [at] live.kaznu.kz= | [[https://orcid.org/0009-0006-3705-9235][ORCiD]] | +7 747 654 2088
+
+
+** Research Experience
+
+Undergraduate Dissertation
+ - Title: A Weil Conjectures' Exposition with Application to Elliptic Curves \\
+    Supervisor: Simon Serovajsky \\
+    Expository work on the history of the Weil conjectures, and research on high rank families of elliptic curves.
+
+Publications:
+- "On Selmer Ranks of Elliptic Curves With a Rational 2-Torsion", /Kazakh Math. J./, 25: *3*, 2025. [[https://doi.org/10.70474/sqw8ys05][DOI]]
+
+** Talks
+ - "Selmer Ranks of Elliptic Curves With a Rational 2-Torsion", Traditional International
+   April Mathematical Conference In Honor of the Kazakhstan Day of science workers,
+   ISBN 978-601-08-5014-9, p. 266 \\
+   The presentation can be found [[/Pres_Apr25.pdf][here]]
+
+** Research Interests
+- Number Theory, Algebraic Geometry
+- Philosophy of Mathematics
+
+** Education
+
+- Bachelor of Science in Mathematics, Al-Farabi Kazakh National University (Almaty, Kazakhstan) \\
+  Graduation on 06.2025 (Red Diploma)
+- Nagaodani Senior High School (Osaka, Japan) \\
+  Graduation on 03.2021
+
+
+** Technical Skills
+ - Programming: C, Python, Haskell, R
+ - Related Software: LaTeX, SageMath, PARI/GP
