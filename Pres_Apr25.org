@@ -145,7 +145,7 @@ group for higher cases omitted in the description.
 Since the algorithm roughly implies a direct relation
 between upper bound of Selmer ranks and the order $b$, we can deduce the
 following upper bound for the $p$ part of the image
-$$sup(\delta_p) \sim \sum_{n = 1}^\infty \frac{n}{p^{n+1}} = \frac{p}{(p-1)^2}$$
+$$sup(\delta_p) \sim \sum_{n = 1}^\infty \frac{n}{p^{n}} = \frac{p}{(p-1)^2}$$
 
 Adding all the contributions of primes $p$ up to the naive height
 $X$ of the curve family we get
