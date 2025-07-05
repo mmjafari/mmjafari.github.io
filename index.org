@@ -11,8 +11,9 @@ Undergraduate researcher in Number Theory and Geometry
 Undergraduate Dissertation
  - Title: A Weil Conjectures' Exposition with Application to Elliptic Curves \\
     Supervisor: Simon Serovajsky \\
-    Expository work on the history of the Weil conjectures, and research on high rank families of elliptic curves.
-
+    Expository work on the history of the Weil conjectures, and research on high rank families of elliptic curves. \\
+    [[./works/undergrad_thess.pdf][pdf]] [[./works/Pres_defense.pdf][presentation]]
+    
 Publications:
 - "On Selmer Ranks of Elliptic Curves With a Rational 2-Torsion", /Kazakh Math. J./, 25: *3*, 2025. [[https://doi.org/10.70474/sqw8ys05][DOI]]
 
@@ -20,7 +21,7 @@ Publications:
  - "Selmer Ranks of Elliptic Curves With a Rational 2-Torsion", Traditional International
    April Mathematical Conference In Honor of the Kazakhstan Day of science workers,
    ISBN 978-601-08-5014-9, p. 266 \\
-   The presentation can be found [[./Pres_Apr25.pdf][here]]
+   The presentation can be found [[./works/Pres_Apr25.pdf][here]]
 
 ** Research Interests
 - Number Theory, Algebraic Geometry
