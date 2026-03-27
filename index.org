@@ -1,8 +1,6 @@
 #+OPTIONS: toc:nil num:0
 #+TITLE: Home Page of Mohammad Mahdi Jafari
 
-Undergraduate researcher in Number Theory and Geometry
-
 mmjafari [at] mail.ru | [[https://orcid.org/0009-0006-3705-9235][ORCiD]] | +81 80 4028 2088
 
 
